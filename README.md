@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;%E8%BF%90%E7%BB%B4+%C3%97+%E5%85%A8%E6%A0%88+%C3%97+AI+Agent+%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4+%C3%97+AI+Agent+%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-**🛠️ 运维 / 全栈开发 | 🤖 AI Agent & 自动化 | 📊 数据分析**
+**🛠️ 运维 & 自动化 | 🤖 AI Agent 实践 | 📊 数据分析**
 
 *I turn repetitive work into scripts, and scripts into systems.*
 
