@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;%E8%87%AA%E5%8A%A8%E5%8C%96%E7%88%B1%E5%A5%BD%E8%80%85+%C3%97+AI+Agent+%E7%8E%A9%E5%AE%B6;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;AI+Agent+%E5%AD%A6%E4%B9%A0%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-**🛠️ 运维 & 自动化 | 🤖 AI Agent 实践 | 📊 数据分析**
+**📚 永远的学习者 | 🤖 AI Agent 爱好者 | 🔧 自动化折腾党**
 
 *I turn repetitive work into scripts, and scripts into systems.*
 
@@ -14,9 +14,10 @@
 
 ## 🧭 关于我
 
-- 🌱 热衷 **AI Agent 工作流**：多 Agent 协作、提示词工程、自动化流水线
-- 🐧 Linux 爱好者，喜欢把重复的事情写成脚本
-- 📝 闲暇时写写博客，记录折腾过程
+- 📚 **学习中**：Python / Linux / AI Agent，边学边做，边做边记
+- 🌱 正在探索 **AI Agent 工作流**：多 Agent 协作、提示词工程、MCP
+- 🤖 折腾自用的 **Hermes Agent** —— 一个多 Agent 协作与记忆管理系统
+- 🐧 喜欢把重复的事情写成脚本，让机器替我干活
 - ⚡ 信条：**凡是重复两次以上的事，都值得写个脚本**
 
 ## 🧰 技术栈
@@ -31,19 +32,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Claude](https://img.shields.io/badge/Claude_Agent-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes_Agent-6E4A9E?style=for-the-badge&logo=hermes&logoColor=white)
 ![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)
 
 </div>
 
-## 🚀 兴趣方向
+## 🚀 学习方向
 
-| 方向 | 说明 |
+| 方向 | 在学什么 |
 | --- | --- |
-| 🤖 **AI Agent** | 多 Agent 协作、工具链编排、工作流自动化 |
+| 🤖 **AI Agent** | 多 Agent 协作（Claude Code / Hermes Agent）、MCP、工具链编排 |
 | 🔧 **自动化脚本** | 爬虫、定时任务、运维工具、效率小工具 |
 | 📊 **数据分析** | 数据清洗、可视化、报表自动化 |
-| 📖 **博客 & 写作** | Hexo 建站、主题魔改、记录折腾日常 |
+| 📖 **博客 & 写作** | Hexo 建站、主题魔改、记录学习日常 |
 
 ## 📊 GitHub 统计
 
@@ -60,4 +62,4 @@
 
 </div>
 
-<h3 align="center">⭐ 觉得我的项目有意思，欢迎点个 Star ⭐</h3>
+<h3 align="center">🌱 还在学习的路上，欢迎交流指正 ⭐</h3>
