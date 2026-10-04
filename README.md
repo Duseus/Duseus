@@ -1,8 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;AI+Agent+%E5%AD%A6%E4%B9%A0%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="assets/banner.png" alt="Hi, I'm Duseus" width="100%" />
+</div>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI+Agent+%E5%AD%A6%E4%B9%A0%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
 
 **📚 永远的学习者 | 🤖 AI Agent 爱好者 | 🔧 自动化折腾党**
 
