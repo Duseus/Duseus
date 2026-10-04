@@ -71,7 +71,7 @@
 
 ![Followers](https://img.shields.io/github/followers/Duseus?style=flat-square&color=1f6feb&label=%E5%85%B3%E6%B3%A8)
 ![Stars](https://img.shields.io/github/stars/Duseus?affiliations=OWNER&style=flat-square&color=1f6feb&label=%E6%98%9F%E6%A0%87)
-![](https://komarev.com/ghpvc/?username=Duseus&color=1f6feb&style=flat-square&label=%E8%AE%BF%E5%AE%A2)
+![](https://komarev.com/ghpvc/?username=Duseus&color=1f6feb&style=flat-square&label=visitors)
 
 </div>
 
