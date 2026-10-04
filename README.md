@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4+%C3%97+AI+Agent+%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Duseus%EF%BC%81%EF%BC%81%EF%BC%81;%E8%87%AA%E5%8A%A8%E5%8C%96%E7%88%B1%E5%A5%BD%E8%80%85+%C3%97+AI+Agent+%E7%8E%A9%E5%AE%B6;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -14,9 +14,9 @@
 
 ## 🧭 关于我
 
-- 🔭 日常与 **716+ 台设备、多台服务器** 打交道，负责设备管理 SaaS 与异常订单审计防损系统
-- 🌱 深耕 **AI Agent 工作流**：飞书机器人、自媒体自动化、逆向工程与提示词工程
-- 📝 运营 [Hexo 博客](https://blog.scxho.cn)（自研 Tanuki 主题）与个人订阅号「山川行貉」
+- 🌱 热衷 **AI Agent 工作流**：多 Agent 协作、提示词工程、自动化流水线
+- 🐧 Linux 爱好者，喜欢把重复的事情写成脚本
+- 📝 闲暇时写写博客，记录折腾过程
 - ⚡ 信条：**凡是重复两次以上的事，都值得写个脚本**
 
 ## 🧰 技术栈
@@ -32,20 +32,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude_Agent-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![飞书](https://img.shields.io/badge/飞书开放平台-00D6B9?style=for-the-badge&logo=bytedance&logoColor=white)
 ![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)
 
 </div>
 
-## 🚀 在做什么
+## 🚀 兴趣方向
 
-| 项目方向 | 说明 |
+| 方向 | 说明 |
 | --- | --- |
-| 🏪 **设备管理 SaaS** | 自动售货机全量设备运营：商品模板工坊、陈列图生成、价格与库存同步 |
-| 🕵️ **标讯雷达** | 标讯聚合 → 8 篇合集 → 自动排版发布，全链路无人值守 |
-| 💬 **飞书机器人矩阵** | 报销助手（FG Expense Assistant）、日报生成、群聊自动化 |
-| 🎨 **AI 短剧 / 多媒体** | 提示词工程、剪映无头化流水线、配图 Skill |
-| 📖 **博客 & 自媒体** | Hexo + Notion 静态博客，微信读书 / 微信本地数据工具链 |
+| 🤖 **AI Agent** | 多 Agent 协作、工具链编排、工作流自动化 |
+| 🔧 **自动化脚本** | 爬虫、定时任务、运维工具、效率小工具 |
+| 📊 **数据分析** | 数据清洗、可视化、报表自动化 |
+| 📖 **博客 & 写作** | Hexo 建站、主题魔改、记录折腾日常 |
 
 ## 📊 GitHub 统计
 
