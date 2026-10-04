@@ -60,9 +60,9 @@
 <div align="center">
 
 <table><tr><td>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Duseus&show_icons=true&hide_border=true&bg_color=00000000&title_color=79c0ff&icon_color=58a6ff&text_color=e6edf3&ring_color=1f6feb&include_all_commits=true&v=2" alt="GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Duseus&show_icons=true&hide_border=true&bg_color=00000066&title_color=79c0ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&include_all_commits=true&v=3" alt="GitHub Stats" />
 </td><td>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duseus&layout=donut&hide_border=true&bg_color=00000000&title_color=79c0ff&text_color=e6edf3&v=2" alt="Top Langs" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duseus&layout=donut&hide_border=true&bg_color=00000066&title_color=79c0ff&text_color=e6edf3&v=3" alt="Top Langs" />
 </td></tr></table>
 
 </div>
