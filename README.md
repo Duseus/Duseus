@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI+Agent+%E5%AD%A6%E4%B9%A0%E8%80%85;%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8D%E4%BC%91" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=560&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
 
 **📚 永远的学习者 | 🤖 AI Agent 爱好者 | 🔧 自动化折腾党**
 

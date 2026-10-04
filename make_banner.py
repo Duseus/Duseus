@@ -76,7 +76,7 @@ sw = bbox[2] - bbox[0]
 draw.text(((W - sw) // 2, bar_y + 40), sub, font=f_sub, fill=BLUE)
 
 # ---- 底部小字 ----
-small = "折腾不止 · 自动化不休"
+small = "Talk is cheap. Show me the code."
 bbox = draw.textbbox((0, 0), small, font=f_small)
 ssw = bbox[2] - bbox[0]
 draw.text(((W - ssw) // 2, bar_y + 110), small, font=f_small, fill=GRAY)
