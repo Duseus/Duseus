@@ -22,7 +22,7 @@
 - 🌱 正在探索 **AI Agent 工作流**：多 Agent 协作、提示词工程、MCP
 - 🤖 折腾开源的 [Hermes Agent](https://github.com/NousResearch/hermes-agent)，体验个人 AI Agent 的能力边界
 - 🐧 喜欢鼓捣一切有趣的事情
-- ⚡ 信条：**凡是重复两次以上的事，都值得写个脚本**
+- ⚡ 信条：**保持好奇，持续折腾**
 
 ## 🧰 技术栈
 
