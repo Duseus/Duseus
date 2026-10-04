@@ -16,7 +16,7 @@
 
 - 📚 **学习中**：Python / Linux / AI Agent，边学边做，边做边记
 - 🌱 正在探索 **AI Agent 工作流**：多 Agent 协作、提示词工程、MCP
-- 🤖 折腾自用的 **Hermes Agent** —— 一个多 Agent 协作与记忆管理系统
+- 🤖 折腾开源的 [Hermes Agent](https://github.com/NousResearch/hermes-agent)，体验个人 AI Agent 的能力边界
 - 🐧 喜欢把重复的事情写成脚本，让机器替我干活
 - ⚡ 信条：**凡是重复两次以上的事，都值得写个脚本**
 
