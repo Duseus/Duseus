@@ -10,7 +10,7 @@
 
 *I turn repetitive work into scripts, and scripts into systems.*
 
-[![Homepage](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-scxho.cn-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scxho.cn/) [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.scxho.cn-e1506b?style=for-the-badge&logo=hexo&logoColor=white)](https://blog.scxho.cn/) ![Followers](https://img.shields.io/github/followers/Duseus?style=flat-square&color=1f6feb&label=%E5%85%B3%E6%B3%A8) ![Stars](https://img.shields.io/github/stars/Duseus?affiliations=OWNER&style=flat-square&color=1f6feb&label=%E6%98%9F%E6%A0%87) ![](https://komarev.com/ghpvc/?username=Duseus&color=1f6feb&style=flat-square&label=visitors)
+[![Homepage](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-scxho.cn-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scxho.cn/) [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.scxho.cn-e1506b?style=for-the-badge&logo=hexo&logoColor=white)](https://blog.scxho.cn/) ![Followers](https://img.shields.io/github/followers/Duseus?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8&labelColor=0d1117) ![Stars](https://img.shields.io/github/stars/Duseus?affiliations=OWNER&style=for-the-badge&color=1f6feb&label=%E6%98%9F%E6%A0%87&labelColor=0d1117) ![Visitors](https://komarev.com/ghpvc/?username=Duseus&color=1f6feb&style=for-the-badge&label=visitors&labelColor=0d1117)
 
 </div>
 
