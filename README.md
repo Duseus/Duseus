@@ -23,7 +23,6 @@
 - 🤖 折腾开源的 [Hermes Agent](https://github.com/NousResearch/hermes-agent)，体验个人 AI Agent 的能力边界
 - 🐧 喜欢把重复的事情写成脚本，让机器替我干活
 - ⚡ 信条：**凡是重复两次以上的事，都值得写个脚本**
-- ✍️ 手写博客：[山川行貉的博客](https://blog.scxho.cn/) —— 技术笔记、折腾记录与生活随想（Hexo + 自研 Tanuki 主题）
 
 ## 🧰 技术栈
 
