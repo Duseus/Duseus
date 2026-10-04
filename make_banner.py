@@ -70,7 +70,7 @@ for i in range(60):
     draw.rectangle([tx + tw // 2 - 150 + i * 5, bar_y, tx + tw // 2 - 145 + i * 5, bar_y + 6], fill=c)
 
 # ---- 副标题 ----
-sub = "自动化折腾党  ×  AI Agent 学习者"
+sub = "永远学习  ×  无限进步"
 bbox = draw.textbbox((0, 0), sub, font=f_sub)
 sw = bbox[2] - bbox[0]
 draw.text(((W - sw) // 2, bar_y + 40), sub, font=f_sub, fill=BLUE)
