@@ -42,6 +42,8 @@
 
 ## 🚀 学习方向
 
+<div align="center">
+
 | 方向 | 在学什么 |
 | --- | --- |
 | 🤖 **AI Agent** | 多 Agent 协作（Claude Code / Hermes Agent）、MCP、工具链编排 |
@@ -49,7 +51,11 @@
 | 📊 **数据分析** | 数据清洗、可视化、报表自动化 |
 | 📖 **博客 & 写作** | Hexo 建站、主题魔改、记录学习日常 |
 
+</div>
+
 ## 🛠️ 原创项目
+
+<div align="center">
 
 | 项目 | 在做什么 |
 | --- | --- |
@@ -57,6 +63,8 @@
 | [**claw-lark-cards**](https://github.com/Duseus/claw-lark-cards) | OpenClaw 的飞书通道插件：工具步骤、指标栏与流式卡片 |
 | [**opensquilla-lark-streaming**](https://github.com/Duseus/opensquilla-lark-streaming) | OpenSquilla 的轮次面板、token 与上下文指标 |
 | [**团团**](https://github.com/Duseus/tuantuan-ip) | 角色、贴纸、头像、壁纸与动画 |
+
+</div>
 
 ## 📊 GitHub 统计
 
