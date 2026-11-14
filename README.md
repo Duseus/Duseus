@@ -28,21 +28,19 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes_Agent-6E4A9E?style=for-the-badge&logo=hermes&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-6E4A9E?style=for-the-badge&logo=hermes&logoColor=white)
 ![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)
 
 </div>
 
 ## 🚀 学习方向
-
-<div align="center">
 
 | 方向 | 在学什么 |
 | --- | --- |
@@ -51,11 +49,7 @@
 | 📊 **数据分析** | 数据清洗、可视化、报表自动化 |
 | 📖 **博客 & 写作** | Hexo 建站、主题魔改、记录学习日常 |
 
-</div>
-
 ## 🛠️ 原创项目
-
-<div align="center">
 
 | 项目 | 在做什么 |
 | --- | --- |
@@ -63,8 +57,6 @@
 | [**claw-lark-cards**](https://github.com/Duseus/claw-lark-cards) | OpenClaw 的飞书通道插件：工具步骤、指标栏与流式卡片 |
 | [**opensquilla-lark-streaming**](https://github.com/Duseus/opensquilla-lark-streaming) | OpenSquilla 的轮次面板、token 与上下文指标 |
 | [**团团**](https://github.com/Duseus/tuantuan-ip) | 角色、贴纸、头像、壁纸与动画 |
-
-</div>
 
 ## 📊 GitHub 统计
 
