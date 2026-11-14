@@ -64,7 +64,7 @@
 | [**hermes-lark-cards**](https://github.com/Duseus/hermes-lark-cards) | 给 Hermes Agent Gateway 做飞书 CardKit 实时流式卡片 |
 | [**claw-lark-cards**](https://github.com/Duseus/claw-lark-cards) | OpenClaw 的飞书通道插件：工具步骤、指标栏与流式卡片 |
 | [**opensquilla-lark-streaming**](https://github.com/Duseus/opensquilla-lark-streaming) | OpenSquilla 的轮次面板、token 与上下文指标 |
-| [**tuantuan-ip**](https://github.com/Duseus/tuantuan-ip) | 貉团团形象资产：角色、贴纸、头像、壁纸与动画 |
+| [**团团**](https://github.com/Duseus/tuantuan-ip) | 角色、贴纸、头像、壁纸与动画 |
 
 </div>
 
