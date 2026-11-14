@@ -10,7 +10,7 @@
 
 *I turn repetitive work into scripts, and scripts into systems.*
 
-[![Homepage](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-scxho.cn-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scxho.cn/) [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.scxho.cn-e1506b?style=for-the-badge&logo=hexo&logoColor=white)](https://blog.scxho.cn/) ![Followers](https://img.shields.io/github/followers/Duseus?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8&labelColor=0d1117) ![Stars](https://img.shields.io/github/stars/Duseus?affiliations=OWNER&style=for-the-badge&color=1f6feb&label=%E6%98%9F%E6%A0%87&labelColor=0d1117) ![Visitors](https://komarev.com/ghpvc/?username=Duseus&color=1f6feb&style=for-the-badge&label=visitors&labelColor=0d1117)
+[![Homepage](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-scxho.cn-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scxho.cn/) [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.scxho.cn-e1506b?style=for-the-badge&logo=hexo&logoColor=white)](https://blog.scxho.cn/) [![Followers](https://img.shields.io/github/followers/Duseus?style=for-the-badge&color=1f6feb&label=%E5%85%B3%E6%B3%A8&labelColor=0d1117)](https://github.com/Duseus?tab=followers) ![Visitors](https://komarev.com/ghpvc/?username=Duseus&color=1f6feb&style=for-the-badge&label=visitors&labelColor=0d1117)
 
 </div>
 
@@ -55,14 +55,27 @@
 
 </div>
 
+## 🛠️ 原创项目
+
+<div align="center">
+
+| 项目 | 在做什么 |
+| --- | --- |
+| [**hermes-lark-cards**](https://github.com/Duseus/hermes-lark-cards) | 给 Hermes Agent Gateway 做飞书 CardKit 实时流式卡片 |
+| [**claw-lark-cards**](https://github.com/Duseus/claw-lark-cards) | OpenClaw 的飞书通道插件：工具步骤、指标栏与流式卡片 |
+| [**opensquilla-lark-streaming**](https://github.com/Duseus/opensquilla-lark-streaming) | OpenSquilla 的轮次面板、token 与上下文指标 |
+| [**tuantuan-ip**](https://github.com/Duseus/tuantuan-ip) | 貉团团形象资产：角色、贴纸、头像、壁纸与动画 |
+
+</div>
+
 ## 📊 GitHub 统计
 
 <div align="center">
 
 <table><tr><td>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Duseus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&v=4" alt="GitHub Stats" />
+<img height="200" src="./profile/stats.svg" alt="GitHub 统计" />
 </td><td>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duseus&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=4" alt="Top Langs" />
+<img height="200" src="./profile/top-langs.svg" alt="常用语言" />
 </td></tr></table>
 
 </div>

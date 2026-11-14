@@ -1,0 +1,47 @@
+name: Update profile cards
+on:
+  schedule:
+    - cron: "41 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-cards.yml
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub stats
+        id: stats
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          path: profile/stats.svg
+          fail_on_error: true
+          options: >-
+            username=Duseus&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&locale=cn&disable_animations=true
+          token: ${{ github.token }}
+
+      - name: Generate top languages
+        id: langs
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          fail_on_error: true
+          options: >-
+            username=Duseus&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=cn&disable_animations=true
+          token: ${{ github.token }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile cards"
+          git push
